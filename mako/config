@@ -1,0 +1,19 @@
+# Основные настройки
+max-history=5
+sort=-time
+
+# Оформление (под твой райс)
+font=JetBrains Mono 10
+background-color=#1e1e2ee6
+text-color=#cdd6f4
+border-color=#89b4fa
+border-radius=12
+border-size=2
+
+# ТАЙМАУТ (то самое время в миллисекундах)
+# 3000 = 3 секунды. Если хочешь дольше, ставь 5000.
+default-timeout=3000
+
+# Если хочешь, чтобы уведомления о музыке исчезали ЕЩЕ быстрее (через 2 сек)
+[app-name="Spotify"]
+default-timeout=2000
